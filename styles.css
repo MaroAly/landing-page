@@ -16,6 +16,7 @@ nav{
     align-items: center;
     padding: 0px;
     margin:0;
+    flex-wrap: wrap;
 }
 
 nav ul{
@@ -24,6 +25,7 @@ nav ul{
     align-items: center;
     gap: 10px;
     margin-right: 70px;
+    flex-wrap: wrap;
 }
 
 .logo{
@@ -41,6 +43,7 @@ nav ul{
     align-items: center;
     gap:50px;
     padding: 50px;
+    flex-wrap: wrap;
 }
 
 .header1 button{
@@ -67,6 +70,7 @@ nav ul{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .header2 ul{
@@ -76,6 +80,7 @@ nav ul{
     align-items: center;
     gap: 20px;
     text-align: center;
+    flex-wrap: wrap;
 }
 .header2 img{
     width:150px;
@@ -97,6 +102,7 @@ nav ul{
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .quote p{
@@ -115,6 +121,7 @@ nav ul{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 .container{
     background-color:#3882F6;
@@ -125,6 +132,7 @@ nav ul{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .container button{
